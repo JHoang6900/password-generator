@@ -1,6 +1,6 @@
 # 03 JavaScript: Password Generator
 
-[Module 3: Javascript Password Generator](https://jhoang6900.github.io/password-generator)
+[Module 3: Javascript Password Generator](https://jhoang6900.github.io/password-generator/index.html)
 
 ## User Story
 
